@@ -1,6 +1,6 @@
-class StoreAdminController
+class StoreAdminController < ApplicationController
 
   def admin
     
-  end 
-end 
+  end
+end
